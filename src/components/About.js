@@ -11,7 +11,7 @@ class About extends Component {
             <p>
               I have been embedded with agile development teams for 5 years. I
               have been a Product Manager for all of those years. Working
-              alongside developers has picqued my passion for coding so I
+              alongside developers has piqued my passion for coding so I
               enrolled in a full stack javascript bootcamp and got to coding. I{" "}
               <u>LOVE</u> it and want to join a fun and energetic dev team.
             </p>
