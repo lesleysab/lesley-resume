@@ -19,10 +19,17 @@ class Interests extends Component {
                 website
               </a>{" "}
               and{" "}
-              <a href="https://github.com/lesleysab/bidr" target="blank">
+              <a
+                href="https://desolate-hamlet-12192.herokuapp.com/"
+                target="blank"
+              >
                 bidding app
               </a>{" "}
-              I built for the organization.{" "}
+              I built for the organization. You can find more of my work{" "}
+              <a href="https://github.com/lesleysab" target="blank">
+                here
+              </a>
+              .{" "}
             </p>
             <p>
               <strong>ALWAYS BE LEARNING. </strong>
