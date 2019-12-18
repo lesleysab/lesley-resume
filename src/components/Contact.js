@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Row, Input, Button } from "react-materialize";
 
 class Contact extends Component {
   render() {

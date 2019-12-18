@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Pdf from "../Lesley Sablatura_2018_09_no address.pdf";
+import Pdf from "../LESLEY_SABLATURA.pdf";
 
 class Interests extends Component {
   render() {
@@ -10,7 +10,7 @@ class Interests extends Component {
             <h4> INTERESTS</h4>
             <hr />
             <p>
-              <strong>DOGS & VOLUNTEERING.</strong> I have 2 rescue pups and
+              <strong>DOGS & VOLUNTEERING.</strong> I have a senior rescue pup and
               have fostered countless dogs over the years. I'm on the board of
               BARKITECTURE ATX as a web developer. It's a custom doghouse design
               show and contest by local builder, architect and design teams.
@@ -51,7 +51,7 @@ class Interests extends Component {
                 href="https://photos.app.goo.gl/eWNq7xqjUy73e1M58"
                 target="blank"
               >
-                Check out my hike up Mount Kilimanjaro in Tanzania last year
+                Check out my hike up Mount Kilimanjaro in Tanzania
               </a>
               .
             </p>

@@ -5,7 +5,7 @@ class AppFooter extends Component {
     return (
       <div className="page-footer">
         <div className="footer">
-          <p>Copyright© Lesley Sablatura 2018</p>
+          <p>Copyright© Lesley Sablatura 2019</p>
         </div>
       </div>
     );

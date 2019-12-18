@@ -13,9 +13,7 @@ class Profile extends Component {
             <h5>Lesley Sablatura</h5>
             <hr style={{ color: "#8590aa" }} />
             <p>
-              Real-Life Product Manager
-              <br />
-              Wanna-Be Software Engineer in Austin, Texas
+              Front-End React Developer in Denver, Colorado
             </p>
           </div>
         </div>

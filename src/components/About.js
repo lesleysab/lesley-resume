@@ -9,11 +9,10 @@ class About extends Component {
             <h6>ABOUT ME</h6>
             <hr style={{ color: "#8590aa" }} />
             <p>
-              I have been embedded with agile development teams for 5 years. I
-              have been a Product Manager for all of those years. Working
-              alongside developers has piqued my passion for coding so I
+              I have been embedded with agile development teams for 6+ years. I'm currently a front-end react developer working remotely for a healthcare software company based in Austin, TX. Previously, I was a Product Manager for several healthcare software companies. Working
+              alongside developers piqued my passion for coding so I
               enrolled in a full stack javascript bootcamp and got to coding. I{" "}
-              <u>LOVE</u> it and want to join a fun and energetic dev team.
+              <u>LOVE</u> it and am so happy I made the change.
             </p>
 
             <div className="hire-me">
@@ -24,7 +23,7 @@ class About extends Component {
 
               <ul>
                 <li>
-                  I have been embedded with agile development teams for 5 years.
+                  I have been embedded with agile development teams for 6+ years.
                 </li>
                 <li>I regularly make product and design-related decisions.</li>
 

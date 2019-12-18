@@ -218,6 +218,7 @@
 }
 
 .nav-item a:hover {
+  background-color: none;
 }
 
 .nav-item a:active {
